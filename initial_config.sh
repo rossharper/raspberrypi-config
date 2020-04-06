@@ -2,8 +2,6 @@
 
 set -x
 
-git clone https://github.com/rossharper/raspberrypi-config.git
-
 cd raspberrypi-config
 
 . ssh/configure_sshd.sh
