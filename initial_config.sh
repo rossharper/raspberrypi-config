@@ -6,4 +6,6 @@ set -x
 
 . ufw/configure_ufw.sh
 
+. ddclient/configure_ddclient.sh
+
 set +x
