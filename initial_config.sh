@@ -8,4 +8,6 @@ set -x
 
 . ddclient/configure_ddclient.sh
 
+. fail2ban/configure_fail2ban.sh
+
 set +x
