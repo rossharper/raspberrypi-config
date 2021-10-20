@@ -10,3 +10,5 @@ sudo ufw allow ssh/tcp
 sudo ufw limit ssh/tcp
 
 sudo ufw --force enable
+
+# appears to have needed a restart after this
